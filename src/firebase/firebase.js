@@ -2,7 +2,7 @@ import * as firebase from 'firebase';
 
 
 const config = {
-    apiKey: process.env.FIREBASE_API_KEY,
+    apiKey: "AIzaSyB32JBL6t0VCOOrCmR3u7GS8HgyJkysdsQ",
     authDomain: process.env.FIREBASE_AUTH_DOMAIN,
     databaseURL: "https://budgifyapp-499e1-default-rtdb.firebaseio.com",
     projectId: process.env.FIREBASE_PROJECT_ID,
