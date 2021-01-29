@@ -1,0 +1,14 @@
+.form {
+    font-family: 'Rubik', sans-serif;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    > * {
+        margin-bottom: $m-size;
+    }
+}
+
+.form__error {
+    margin: 0 0 $m-size 0;
+    font-style: italic;
+}
